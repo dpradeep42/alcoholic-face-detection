@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "driverinfo",
+  "private_key_id": "aa8a84cd0cc5e2543ce408dfda9ef00b9c20c137",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCKATqqWmt/k2dI\nQ9JHHyua9uJzxKFov+GUg6J202XZhI0R1wKRkz6o7PP9lGUuPBEoiuw9U94TT+tp\nkEKo9ypeboLcs2OGwS18ZrIpDhTXaSb1iLV979M3Vty8pe5p/PiE3BLGX1jpQ+D7\npjYIRMD64abKJtgrUpLfBxEVcDNIZ97UT+tQxWJJDYRFOqtQoK7z5u8hI8Gc4+O/\npqRTQ/6Sb10gVq1t/IVSRvacWuwt8lrSIKKRyHlyy53KcPoY69cADy+c81+drQQy\ni+0xosDZ9J57PhFdOvDF6jb52l2hLfibcyLeT/g0wlHqd+KJBseeHbLD/nhP3EIE\nLSCoOtBjAgMBAAECggEAAWcFy5ljokZDNG7MAkEE1mxP3NFQupnIlxPHYOHBFTbN\noDLJKeWPK3RM/nS1moStv/W5dN4XUabsQ4RdyQ3J9m+1EL0Z89KevbbldJlaCN5e\nsPwUrBT11oghciFVjOovNFpwLmflpWk1LhmATxEzzNjiMwe2BqquJ2oQ+GDNhJzV\nyuKHOCn09f4izt1ymagN/oBzbnNKQkwfp7fd6Br0q2IJ3wjn7d8Qx8lkp+sjAIPE\nL5ttDWjTimKX238bTy288hT3Z6e1M3PZNi3V4dRA88oEaZnPdr5VibyBVg6SA595\nZXKgT4KFvdHs7yLP4J0AJYib0IZwjNZ0akp4JRCm4QKBgQC8RwAzXKzQXrslaCQv\njw8/MpDdTl2M6NMREaVGgAgp+tWfGFZdsPnTO2PkyEvPAHnaMEdvoG3KRsB3P93N\n4nXHQeAH/KorjiwHyp0uYaMXKNFZ+J1LIyfwwkUtrb1gcrbLNYiOxPzw9iEqMDSf\nYIRKDkRgwSkrCtY5gm9+MkWBeQKBgQC7pQUboJ3nRJ1m73CiifcMXsNCrZiTa6eF\nGEd3+Vc1U60/imSmT3aHesKceKe+wMdqlCjlvqmAlItxE9BdTePymVEtiZBeqmRJ\nRbRLoEhlQUsqhNlBBFaLImD47+WcPgme0k3XssIEzoRrvW92Hi2iQem3DX+OH7yE\nwr8BMsTluwKBgBT+pdsUXoDtz1iggEh9X2ngrZ6/+laYL9Ebcp6l8EMeIWwYPqk7\n7t/LI5yDaVCv8OaPs6eS8Cs6MIQbrxQiSJfrlJvPZPpuZCKKSXS+ln0ipBWwT3nt\ndaq3PxeU5CU5JYELeyrQdJQ6HgCiV3veO2I2rRFM+NY/4xuOm/gqiu2hAoGBAIlE\nUJZDSv/RW+vfIOBmWMk90U1HvKOrTyK3/iAv0LH8AnLHBJX871JwZUkdomiSkc7P\nj5NxhIHBKLiRrA11W1ku+wl65pe5wh8v1JK2L/+SYjA6estrJvwlLBcvNyKy50q9\nwaAW7oOhp5FBRPZ9YRifax8zyqnnYXslE6EGyK7dAoGBAI1YqdjsPr6p8Jq12MlM\neFE7KR/H7DtK+HXzARj0DpLEX9QqwfQ9CRzYwQxXToubcbQXL3XJScCkXQhCN1E6\nelmGj2PYKm5RmgWSqiLzwL0FT1K9EpY4uiZcs8eKrKPr3CrjyQHu5I4Ze2hHwFv2\nn8wbvXmLW8rH1iCf5sLmcdlE\n-----END PRIVATE KEY-----\n",
+  "client_email": "driverinfo@driverinfo.iam.gserviceaccount.com",
+  "client_id": "103442961138866478430",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/driverinfo%40driverinfo.iam.gserviceaccount.com"
+}
